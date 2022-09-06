@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SarangPratap
 - 👀 I’m interested in Machine learning and Data analytics
-- 🌱 I’m currently learning Data analytics
 - 💞️ I’m looking to collaborate on Machine learning algorithms and data analysis tasks
 - 📫 Feel free to connect on chamola31@gmail.com
 
